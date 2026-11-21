@@ -17,7 +17,7 @@ I built it to explore a question. After an upload attracts hundreds of comments,
 - **Audience insights** with filters for time period, topic, video and feedback type.
 - **Opportunities** with suggested actions and supporting comments.
 - **Weekly report** with a fixed scope and a short list of actions an editor can review.
-- **Creator accounts** with email confirmation, password recovery and a saved YouTube handle.
+- **Creator accounts** with sign-in, password recovery and a saved YouTube handle.
 
 ## Current status
 

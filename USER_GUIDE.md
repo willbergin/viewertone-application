@@ -45,7 +45,7 @@ The example analyses **2,670 comments across 10 simulated uploads**. **71% were 
 
 ## Manage your account
 
-If you have access to the prototype, open **Account** to sign in or create an account. Follow the confirmation link sent to your email address. Enter your YouTube handle with or without the `@` and choose **Save channel**. ViewerTone saves it to your account and continues to show the example data while live analysis is pending.
+If you have a pilot account, open **Account** to sign in. If you receive an invitation email, follow its link to choose a password. Enter your YouTube handle with or without the `@` and choose **Save channel**. ViewerTone saves it to your account and continues to show the example data while live analysis is pending.
 
 Use **Forgot password?** on the sign-in screen to request a reset link. Use **Sign out** when you finish on a shared device.
 
