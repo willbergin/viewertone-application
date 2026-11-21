@@ -1,6 +1,6 @@
-# ViewerTone user guide
+# Viewertone user guide
 
-ViewerTone helps you explore YouTube audience feedback and decide what to try on a future upload. This guide describes the prototype. The example workspace uses synthetic TPD TV data.
+Viewertone helps you explore YouTube audience feedback and decide what to try on a future upload. This guide describes the current pilot build. The example workspace uses synthetic TPD TV data.
 
 ## Start with Overview
 
@@ -45,10 +45,10 @@ The example analyses **2,670 comments across 10 simulated uploads**. **71% were 
 
 ## Manage your account
 
-If you have a pilot account, open **Account** to sign in. If you receive an invitation email, follow its link to choose a password. Enter your YouTube handle with or without the `@` and choose **Save channel**. ViewerTone saves it to your account and continues to show the example data while live analysis is pending.
+If you have a pilot account, open **Account** to sign in. If you receive an invitation email, follow its link to choose a password. Enter your YouTube handle with or without the `@` and choose **Save channel**. Viewertone saves it to your account and continues to show the example data while live analysis is pending.
 
 Use **Forgot password?** on the sign-in screen to request a reset link. Use **Sign out** when you finish on a shared device.
 
 ## Privacy settings
 
-Where browser diagnostics are configured, use **Privacy settings → Share browser error reports**. Reporting is off by default. Turning it on allows ViewerTone to send scrubbed error types and app code locations. You can change this preference at any time.
+Where browser diagnostics are configured, use **Privacy settings → Share browser error reports**. Reporting is off by default. Turning it on allows Viewertone to send scrubbed error types and app code locations. You can change this preference at any time.

@@ -1,12 +1,12 @@
-# ViewerTone
+# Viewertone
 
-**Understand what viewers are saying and decide what to try next.**
+**Viewertone helps YouTube creators understand how viewers feel about their videos, spot recurring feedback and decide what to change in their next upload.**
 
 [Example audience report](USER_GUIDE.md#example-tpd-tv-weekly-report) · [User guide](USER_GUIDE.md)
 
 ## What it is
 
-ViewerTone is an audience research prototype for YouTube creators. It groups comments by sentiment, topic and feedback type, then connects suggested actions to the comments that support them.
+Viewertone is an audience research tool for YouTube creators. It groups comments by sentiment, topic and feedback type, then connects suggested actions to the comments that support them.
 
 I built it to explore a question. After an upload attracts hundreds of comments, can a creator quickly decide what to change in the next video?
 
@@ -21,7 +21,7 @@ I built it to explore a question. After an upload attracts hundreds of comments,
 
 ## Current status
 
-ViewerTone is a deployed prototype awaiting creator validation. The dashboard and weekly report use a synthetic TPD TV sample. The account flow saves a channel handle. Live channel analysis is pending.
+Viewertone is in development and awaiting creator validation. The dashboard and weekly report use a synthetic TPD TV sample. The account flow saves a channel handle. Live channel analysis is pending.
 
 I also prepared a separate, manual pilot using 151 top-level comments from one real festival vlog. The next step is to validate the report with a creator and learn which recommendations they would use. Invite-only access is the likely next stage after validation.
 
